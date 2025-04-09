@@ -55,6 +55,6 @@ Player 2 (Jack): ปุ่ม W A S D หรือปุ่มกำหนดเ
 เกมจะรีเซ็ตโดยอัตโนมัติภายใน 5 วินาทีหลังจากประกาศผล
 
 ตัวละครกลับไปที่จุดเริ่มต้น และเริ่มจับเวลาใหม่
-
+![Image](https://github.com/user-attachments/assets/ccb63726-9d7c-49fe-a253-f6aac6460ba3)
 ![Image](https://github.com/user-attachments/assets/4538f221-2121-4d35-a059-96ea870cd3ed)
 ![Image](https://github.com/user-attachments/assets/b7654460-9efe-4170-a123-1494a62ea62d)
